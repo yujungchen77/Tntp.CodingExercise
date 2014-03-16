@@ -1,0 +1,11 @@
+c:\users\chloe\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+c:\users\chloe\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+c:\users\chloe\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\bin\MongoDB.Bson.dll
+c:\users\chloe\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\bin\MongoDB.Driver.dll
+c:\users\chloe\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\bin\MongoDB.Bson.pdb
+c:\users\chloe\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\bin\MongoDB.Bson.xml
+c:\users\chloe\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\bin\MongoDB.Driver.pdb
+c:\users\chloe\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\bin\MongoDB.Driver.xml
+c:\users\chloe\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\chloe\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Chloe\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
